@@ -1,0 +1,18 @@
+---
+{"title":"Vegetarian Protein Calculator — Daily Target + Sample Day of Plant Foods","description":"Calculate how much protein you need on a vegetarian or vegan diet based on weight and goal, and see a sample day of plant-based foods that hits the number.","priority":"0.8","scripts":"<script src=\"assets/js/tools.js\"></script>"}
+---
+<section><div class="wrap">
+  <span class="eyebrow">Tool · Protein calculator</span><h1>How much protein do you need?</h1>
+  <p class="lead">Based on the ISSN and Academy of Nutrition &amp; Dietetics ranges. Thirty seconds, no login.</p>
+  <div class="recipe-layout"><div>
+    <form class="tool-panel form" id="protein-form">
+      <div class="form-row"><div><label for="pw">Body weight</label><input id="pw" type="number" name="weight" min="30" max="300" value="70" required></div><div><label for="pu">Unit</label><select id="pu" name="unit"><option value="kg">kg</option><option value="lb">lb</option></select></div></div>
+      <div class="form-row"><div><label for="pg">Goal / activity</label><select id="pg" name="goal"><option value="sedentary">Mostly sedentary — general health</option><option value="active" selected>Active, exercise 2–4× a week</option><option value="muscle">Build muscle / strength training</option><option value="fatloss">Fat loss while keeping muscle</option></select></div><div><label for="pd">Diet</label><select id="pd" name="diet"><option value="vegetarian">Vegetarian (dairy/eggs OK)</option><option value="vegan">Vegan</option></select></div></div>
+      <button class="btn btn-primary btn-lg" type="submit">Calculate my target</button>
+    </form>
+    <div id="protein-out"></div>
+    <div class="ad-slot inarticle" data-slot="inArticle"></div>
+    <div class="prose"><h2>How the calculator works</h2><p>Protein requirements scale with body weight and training load. Sedentary adults do well at 0.8–1.0 g/kg; anyone training regularly benefits from 1.2–1.6 g/kg; strength athletes and people in a calorie deficit protect muscle best at 1.6–2.2 g/kg. Plant proteins are slightly less digestible than animal proteins, so we sit at the upper-middle of each range.</p><p>Spread intake across 3–4 meals with 25–40 g each and prioritise leucine-rich sources — soy, lentils, peas, seitan — to reliably cross the ~2.5 g leucine threshold that triggers muscle protein synthesis.</p></div>
+  </div>
+  <aside class="sidebar"><div class="widget"><h3>Highest-protein recipes</h3><ul><li><a href="recipe.html?id=teriyaki-tempeh">Teriyaki tempeh bowls — 29 g</a></li><li><a href="recipe.html?id=protein-smoothie">Chocolate peanut smoothie — 30 g</a></li><li><a href="recipe.html?id=paneer-butter-masala">Paneer butter masala — 22 g</a></li><li><a href="recipe.html?id=lentil-bolognese">Lentil bolognese — 22 g</a></li><li><a href="recipe.html?id=tofu-scramble">Tofu scramble — 21 g</a></li></ul></div><div class="ad-slot rect" data-slot="sidebar"></div><div class="widget"><h3>Related guide</h3><p class="small"><a href="article.html?id=vegetarian-protein-guide">The complete vegetarian protein guide</a> — 30 foods with grams per serving.</p></div></aside></div>
+</div></section>
