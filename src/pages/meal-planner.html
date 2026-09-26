@@ -1,0 +1,15 @@
+---
+{"title":"Free Vegetarian Meal Planner with Automatic Grocery List","description":"Plan seven days of vegetarian or vegan meals from the AllVeg library. Auto-fill by budget, quick or high-protein, see daily calories and protein, and copy a merged grocery list.","priority":"0.8","scripts":"<script src=\"assets/js/tools.js\"></script>"}
+---
+<section><div class="wrap">
+  <span class="eyebrow">Tool · Meal planner</span><h1>Plan the week in two minutes</h1>
+  <p class="lead">Pick a recipe for each slot or auto-fill. Nutrition averages update live and the grocery list merges quantities across recipes. Saved on this device.</p>
+  <div class="tool-panel">
+    <div class="toolbar"><select id="plan-tag" aria-label="Auto-fill style"><option value="">Auto-fill: any</option><option value="quick">Auto-fill: quick (≤20 min)</option><option value="budget">Auto-fill: budget</option><option value="high-protein">Auto-fill: high-protein</option><option value="vegan">Auto-fill: vegan only</option><option value="gluten-free">Auto-fill: gluten-free</option></select><button class="btn btn-primary btn-sm" id="plan-auto">⚡ Auto-fill week</button><button class="btn btn-ghost btn-sm" id="plan-clear">Clear</button><button class="btn btn-ghost btn-sm" id="plan-print">🖨 Print</button></div>
+    <div class="planner" id="planner"></div>
+    <div class="kpi" id="plan-kpi" style="margin-top:20px"></div>
+  </div>
+  <div class="ad-slot leaderboard" data-slot="inArticle"></div>
+  <div class="recipe-layout"><div class="recipe-card"><div class="sec-head"><h2>Grocery list</h2><button class="btn btn-outline btn-sm" id="grocery-copy">Copy list</button></div><div id="grocery"></div></div>
+  <aside class="sidebar"><div class="widget" style="background:var(--green-900);color:#e6f4ea"><h3 style="color:#fff">Get this week's plan by email</h3><p class="small">Every Sunday: a ready-made 7-day plan and list, chosen by the community.</p><form class="form" data-form="Weekly plan newsletter"><div class="honey"><input name="_gotcha"></div><input type="email" name="email" placeholder="Email" required><button class="btn btn-lime btn-block" type="submit">Send me plans</button><div class="alert"></div></form></div><div class="ad-slot rect" data-slot="sidebar"></div><div class="widget"><h3>Read</h3><ul><li><a href="article.html?id=budget-vegetarian-meal-plan">The $40-a-week plan</a></li><li><a href="article.html?id=high-protein-vegetarian-dinners">15 high-protein dinners</a></li></ul></div></aside></div>
+</div></section>
