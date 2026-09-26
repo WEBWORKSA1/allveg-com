@@ -1,0 +1,19 @@
+---
+{"title":"Vegetarian & Vegan Recipes — Filter by Meal, Diet, Time and Protein","description":"Browse every AllVeg recipe. Filter by breakfast, lunch, dinner, dessert, vegan, gluten-free, high-protein, quick and budget. Sort by rating, time or protein.","priority":"0.9","scripts":"<script src=\"assets/js/recipes.js\"></script>"}
+---
+<section style="padding-bottom:20px"><div class="wrap">
+  <span class="eyebrow">Recipe library</span><h1>Vegetarian &amp; vegan recipes</h1>
+  <p class="lead">Every recipe is tested, costed and nutrition-estimated. Filter to exactly what you need tonight.</p>
+  <div class="form-row" style="grid-template-columns:2fr 1fr 1fr;margin:18px 0">
+    <input id="rq" type="search" placeholder="Search ingredient or dish…" aria-label="Search recipes">
+    <select id="rsort" aria-label="Sort"><option value="popular">Most popular</option><option value="rating">Highest rated</option><option value="quick">Quickest</option><option value="protein">Most protein</option><option value="kcal">Lowest calories</option></select>
+    <select id="rcuisine" aria-label="Cuisine"><option value="">Any cuisine</option></select>
+  </div>
+  <div class="pill-row"><button class="pill" data-cat="breakfast">🥣 Breakfast</button><button class="pill" data-cat="lunch">🥗 Lunch</button><button class="pill" data-cat="dinner">🍛 Dinner</button><button class="pill" data-cat="snack">🥜 Snacks</button><button class="pill" data-cat="dessert">🍫 Dessert</button><button class="pill" data-cat="drink">🥤 Drinks</button></div>
+  <div class="pill-row" style="margin-top:8px"><button class="pill" data-tag="vegan">🌱 Vegan</button><button class="pill" data-tag="vegetarian">🧀 Vegetarian (dairy)</button><button class="pill" data-tag="gluten-free">🌾 Gluten-free</button><button class="pill" data-tag="high-protein">💪 High-protein</button><button class="pill" data-tag="quick">⏱ ≤20 min</button><button class="pill" data-tag="budget">💸 Budget</button></div>
+  <p class="muted small" style="margin-top:12px"><span id="rcount">…</span> · Tap ♡ Save on any recipe to build your <a href="saved.html">recipe box</a>.</p>
+</div></section>
+<div class="wrap"><div class="ad-slot leaderboard" data-slot="leaderboard"></div></div>
+<section style="padding-top:10px"><div class="wrap"><div class="grid grid-3" id="recipe-index"></div></div></section>
+<section class="band-soft"><div class="wrap cta-box"><div><h2>Can't find it? Request a recipe.</h2><p>Tell us the dish you miss and we will veganise it within two weeks — and email you when it is live.</p></div>
+  <form class="form" data-form="Recipe request"><div class="honey"><input name="_gotcha"></div><input type="text" name="dish" placeholder="The dish you want (e.g. butter chicken)" required><input type="email" name="email" placeholder="Email" required><button class="btn btn-lime" type="submit">Request it</button><div class="alert"></div></form></div></section>
