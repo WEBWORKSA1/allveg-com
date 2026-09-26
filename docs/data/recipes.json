@@ -1,0 +1,2788 @@
+[
+ {
+  "id": "chickpea-shakshuka",
+  "title": "Chickpea Shakshuka",
+  "emoji": "🍅",
+  "cat": "breakfast",
+  "cuisine": "Middle Eastern",
+  "tags": [
+   "vegan",
+   "high-protein",
+   "gluten-free",
+   "budget"
+  ],
+  "time": 25,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 310,
+   "protein": 14,
+   "carbs": 38,
+   "fat": 11
+  },
+  "rating": 4.9,
+  "votes": 412,
+  "summary": "Smoky tomato-pepper sauce with chickpeas standing in for eggs. One pan, 25 minutes, endlessly dippable.",
+  "ingredients": [
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "olive oil"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "onion, diced"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "red bell pepper, sliced"
+   },
+   {
+    "q": 3,
+    "u": "cloves",
+    "n": "garlic, minced"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "smoked paprika"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "ground cumin"
+   },
+   {
+    "q": 800,
+    "u": "g",
+    "n": "canned crushed tomatoes"
+   },
+   {
+    "q": 400,
+    "u": "g",
+    "n": "canned chickpeas, drained"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "salt"
+   },
+   {
+    "q": 1,
+    "u": "handful",
+    "n": "fresh parsley or cilantro"
+   }
+  ],
+  "steps": [
+   "Warm oil in a wide skillet over medium heat; soften onion and pepper 6–7 min.",
+   "Stir in garlic, paprika and cumin for 1 min until fragrant.",
+   "Add tomatoes and salt, simmer 8 min until thickened.",
+   "Fold in chickpeas, simmer 5 min. Make wells and spoon a little sauce over each.",
+   "Scatter herbs, serve with warm flatbread or crusty bread."
+  ],
+  "tip": "Add 100 g crumbled tofu into the wells for an egg-like finish."
+ },
+ {
+  "id": "overnight-oats-pb",
+  "title": "Peanut Butter Banana Overnight Oats",
+  "emoji": "🥣",
+  "cat": "breakfast",
+  "cuisine": "American",
+  "tags": [
+   "vegan",
+   "high-protein",
+   "quick",
+   "budget"
+  ],
+  "time": 5,
+  "servings": 1,
+  "nutrition": {
+   "kcal": 420,
+   "protein": 17,
+   "carbs": 58,
+   "fat": 14
+  },
+  "rating": 4.8,
+  "votes": 689,
+  "summary": "Five-minute prep, zero cooking, 17 g protein. The breakfast that survives any morning.",
+  "ingredients": [
+   {
+    "q": 50,
+    "u": "g",
+    "n": "rolled oats"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "chia seeds"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "peanut butter"
+   },
+   {
+    "q": 180,
+    "u": "ml",
+    "n": "soy milk"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "ripe banana, mashed"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "maple syrup"
+   },
+   {
+    "q": 1,
+    "u": "pinch",
+    "n": "cinnamon"
+   }
+  ],
+  "steps": [
+   "Mash banana in a jar; stir in peanut butter and maple syrup.",
+   "Add oats, chia, cinnamon and milk; stir well.",
+   "Seal and refrigerate at least 4 hours or overnight.",
+   "Top with sliced banana or berries before eating."
+  ],
+  "tip": "Use soy milk over oat milk: it roughly doubles the protein."
+ },
+ {
+  "id": "tofu-scramble",
+  "title": "Turmeric Tofu Scramble",
+  "emoji": "🍳",
+  "cat": "breakfast",
+  "cuisine": "American",
+  "tags": [
+   "vegan",
+   "high-protein",
+   "gluten-free",
+   "quick"
+  ],
+  "time": 15,
+  "servings": 2,
+  "nutrition": {
+   "kcal": 260,
+   "protein": 21,
+   "carbs": 9,
+   "fat": 16
+  },
+  "rating": 4.7,
+  "votes": 533,
+  "summary": "Fluffy, savoury and ready in 15 minutes. Kala namak is the secret to the egg flavour.",
+  "ingredients": [
+   {
+    "q": 400,
+    "u": "g",
+    "n": "firm tofu, pressed"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "olive oil"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "turmeric"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "kala namak (black salt)"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "nutritional yeast"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "scallion, sliced"
+   },
+   {
+    "q": 60,
+    "u": "g",
+    "n": "baby spinach"
+   },
+   {
+    "q": 0.25,
+    "u": "tsp",
+    "n": "black pepper"
+   }
+  ],
+  "steps": [
+   "Crumble tofu with your hands into rough chunks.",
+   "Heat oil in a non-stick pan; add tofu and cook 4 min without stirring to brown.",
+   "Sprinkle turmeric, nutritional yeast and pepper; toss 3 min.",
+   "Add spinach and scallion, wilt 1 min. Finish with kala namak off the heat."
+  ],
+  "tip": "Adding kala namak at the very end keeps its sulphur aroma intact."
+ },
+ {
+  "id": "green-smoothie-bowl",
+  "title": "Mango Spinach Smoothie Bowl",
+  "emoji": "🥭",
+  "cat": "breakfast",
+  "cuisine": "Global",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "quick"
+  ],
+  "time": 8,
+  "servings": 1,
+  "nutrition": {
+   "kcal": 330,
+   "protein": 9,
+   "carbs": 62,
+   "fat": 7
+  },
+  "rating": 4.6,
+  "votes": 201,
+  "summary": "Bright, thick and spoonable. Freeze the mango the night before for a soft-serve texture.",
+  "ingredients": [
+   {
+    "q": 150,
+    "u": "g",
+    "n": "frozen mango"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "frozen banana"
+   },
+   {
+    "q": 40,
+    "u": "g",
+    "n": "baby spinach"
+   },
+   {
+    "q": 120,
+    "u": "ml",
+    "n": "oat milk"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "hemp seeds"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "granola"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "coconut flakes"
+   }
+  ],
+  "steps": [
+   "Blend mango, banana, spinach and milk until thick; add milk a splash at a time.",
+   "Spoon into a bowl.",
+   "Top with hemp seeds, granola and coconut."
+  ],
+  "tip": "Less liquid = thicker bowl. Stop the blender and scrape down rather than adding milk."
+ },
+ {
+  "id": "masala-oats-upma",
+  "title": "Masala Oats Upma",
+  "emoji": "🌶️",
+  "cat": "breakfast",
+  "cuisine": "Indian",
+  "tags": [
+   "vegan",
+   "quick",
+   "budget"
+  ],
+  "time": 15,
+  "servings": 2,
+  "nutrition": {
+   "kcal": 280,
+   "protein": 9,
+   "carbs": 44,
+   "fat": 8
+  },
+  "rating": 4.7,
+  "votes": 318,
+  "summary": "A savoury South-Indian style oats upma — mustard seeds, curry leaves and vegetables in 15 minutes.",
+  "ingredients": [
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "rolled oats"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "oil"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "mustard seeds"
+   },
+   {
+    "q": 8,
+    "u": "",
+    "n": "curry leaves"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "onion, chopped"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "green chilli, slit"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "carrot, finely diced"
+   },
+   {
+    "q": 0.5,
+    "u": "cup",
+    "n": "green peas"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "turmeric"
+   },
+   {
+    "q": 2,
+    "u": "cups",
+    "n": "water"
+   },
+   {
+    "q": 0.75,
+    "u": "tsp",
+    "n": "salt"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "lemon juice"
+   }
+  ],
+  "steps": [
+   "Dry-roast oats 3 min; set aside.",
+   "Heat oil; pop mustard seeds, add curry leaves, chilli and onion. Sauté 3 min.",
+   "Add carrot, peas, turmeric and salt; cook 3 min.",
+   "Pour in water, bring to boil, stir in oats. Cook 3–4 min until absorbed.",
+   "Finish with lemon juice."
+  ],
+  "tip": "Add a handful of roasted peanuts for crunch and protein."
+ },
+ {
+  "id": "banana-pancakes",
+  "title": "Fluffy Vegan Banana Pancakes",
+  "emoji": "🥞",
+  "cat": "breakfast",
+  "cuisine": "American",
+  "tags": [
+   "vegan",
+   "budget"
+  ],
+  "time": 20,
+  "servings": 3,
+  "nutrition": {
+   "kcal": 340,
+   "protein": 8,
+   "carbs": 64,
+   "fat": 6
+  },
+  "rating": 4.8,
+  "votes": 745,
+  "summary": "No eggs, no dairy, still fluffy: the trick is baking powder plus a rested batter.",
+  "ingredients": [
+   {
+    "q": 1.5,
+    "u": "cups",
+    "n": "all-purpose flour"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "baking powder"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "sugar"
+   },
+   {
+    "q": 0.25,
+    "u": "tsp",
+    "n": "salt"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "very ripe banana"
+   },
+   {
+    "q": 1.25,
+    "u": "cups",
+    "n": "plant milk"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "oil"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "vanilla"
+   }
+  ],
+  "steps": [
+   "Whisk flour, baking powder, sugar and salt.",
+   "Mash banana; whisk with milk, oil and vanilla.",
+   "Fold wet into dry until just combined; rest 5 min.",
+   "Cook ¼-cup scoops on a lightly oiled pan 2–3 min per side."
+  ],
+  "tip": "Do not overmix; lumps mean fluff."
+ },
+ {
+  "id": "buddha-bowl",
+  "title": "Roasted Sweet Potato Buddha Bowl",
+  "emoji": "🥗",
+  "cat": "lunch",
+  "cuisine": "Global",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "high-protein"
+  ],
+  "time": 35,
+  "servings": 2,
+  "nutrition": {
+   "kcal": 540,
+   "protein": 20,
+   "carbs": 72,
+   "fat": 20
+  },
+  "rating": 4.9,
+  "votes": 912,
+  "summary": "Roasted sweet potato, crispy chickpeas, greens and tahini-lemon drizzle. Meal prep gold.",
+  "ingredients": [
+   {
+    "q": 1,
+    "u": "large",
+    "n": "sweet potato, cubed"
+   },
+   {
+    "q": 400,
+    "u": "g",
+    "n": "canned chickpeas, drained"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "olive oil"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "smoked paprika"
+   },
+   {
+    "q": 150,
+    "u": "g",
+    "n": "cooked quinoa"
+   },
+   {
+    "q": 80,
+    "u": "g",
+    "n": "kale, massaged"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "avocado, sliced"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "tahini"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "lemon juice"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "water"
+   },
+   {
+    "q": 1,
+    "u": "pinch",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Heat oven to 220°C / 425°F. Toss sweet potato and chickpeas with oil, paprika and salt.",
+   "Roast 25 min, shaking once.",
+   "Whisk tahini, lemon, water and salt into a pourable dressing.",
+   "Build bowls: quinoa, kale, roasted veg, avocado; drizzle dressing."
+  ],
+  "tip": "Roast the chickpeas on a separate tray for maximum crunch."
+ },
+ {
+  "id": "lentil-soup",
+  "title": "Red Lentil & Coconut Soup",
+  "emoji": "🍲",
+  "cat": "lunch",
+  "cuisine": "Indian",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "high-protein",
+   "budget"
+  ],
+  "time": 30,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 360,
+   "protein": 18,
+   "carbs": 46,
+   "fat": 12
+  },
+  "rating": 4.8,
+  "votes": 1024,
+  "summary": "Creamy, gently spiced and under $1.50 a bowl. Freezes perfectly.",
+  "ingredients": [
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "coconut oil"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "onion, diced"
+   },
+   {
+    "q": 2,
+    "u": "cloves",
+    "n": "garlic"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "grated ginger"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "curry powder"
+   },
+   {
+    "q": 250,
+    "u": "g",
+    "n": "red lentils, rinsed"
+   },
+   {
+    "q": 400,
+    "u": "ml",
+    "n": "coconut milk"
+   },
+   {
+    "q": 1,
+    "u": "L",
+    "n": "vegetable stock"
+   },
+   {
+    "q": 2,
+    "u": "",
+    "n": "tomatoes, chopped"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "lime, juiced"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Sauté onion in oil 5 min; add garlic, ginger and curry powder 1 min.",
+   "Add lentils, tomatoes, stock and coconut milk. Simmer 20 min, stirring occasionally.",
+   "Blend half for a creamier texture if you like.",
+   "Season with salt and lime; serve with rice or naan."
+  ],
+  "tip": "Rinse lentils until the water runs clear to avoid a muddy flavour."
+ },
+ {
+  "id": "chickpea-salad-sandwich",
+  "title": "Smashed Chickpea Salad Sandwich",
+  "emoji": "🥪",
+  "cat": "lunch",
+  "cuisine": "American",
+  "tags": [
+   "vegan",
+   "high-protein",
+   "quick",
+   "budget"
+  ],
+  "time": 10,
+  "servings": 2,
+  "nutrition": {
+   "kcal": 430,
+   "protein": 16,
+   "carbs": 58,
+   "fat": 15
+  },
+  "rating": 4.7,
+  "votes": 388,
+  "summary": "Tuna-salad energy with zero tuna. Ten minutes, one fork.",
+  "ingredients": [
+   {
+    "q": 400,
+    "u": "g",
+    "n": "canned chickpeas, drained"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "vegan mayo"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "Dijon mustard"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "celery stalk, diced"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "red onion, minced"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "capers or dill pickle"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "lemon juice"
+   },
+   {
+    "q": 4,
+    "u": "slices",
+    "n": "whole-grain bread"
+   },
+   {
+    "q": 1,
+    "u": "handful",
+    "n": "lettuce"
+   }
+  ],
+  "steps": [
+   "Mash chickpeas roughly with a fork, leaving texture.",
+   "Stir in mayo, mustard, celery, onion, capers and lemon; season.",
+   "Pile onto bread with lettuce."
+  ],
+  "tip": "A sheet of nori, crumbled in, gives a subtle sea flavour."
+ },
+ {
+  "id": "peanut-noodle-salad",
+  "title": "Cold Peanut Noodle Salad",
+  "emoji": "🥜",
+  "cat": "lunch",
+  "cuisine": "Thai",
+  "tags": [
+   "vegan",
+   "quick",
+   "high-protein"
+  ],
+  "time": 20,
+  "servings": 3,
+  "nutrition": {
+   "kcal": 520,
+   "protein": 19,
+   "carbs": 68,
+   "fat": 20
+  },
+  "rating": 4.8,
+  "votes": 566,
+  "summary": "Chilled rice noodles in a punchy peanut-lime dressing, loaded with crunchy veg and edamame.",
+  "ingredients": [
+   {
+    "q": 200,
+    "u": "g",
+    "n": "rice noodles"
+   },
+   {
+    "q": 150,
+    "u": "g",
+    "n": "shelled edamame"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "carrot, julienned"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "red pepper, sliced"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "cucumber, sliced"
+   },
+   {
+    "q": 3,
+    "u": "tbsp",
+    "n": "peanut butter"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "soy sauce"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "lime juice"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "maple syrup"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "sriracha"
+   },
+   {
+    "q": 3,
+    "u": "tbsp",
+    "n": "warm water"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "crushed peanuts"
+   }
+  ],
+  "steps": [
+   "Cook noodles per pack; rinse under cold water.",
+   "Whisk peanut butter, soy, lime, maple, sriracha and water until smooth.",
+   "Toss noodles, edamame and vegetables with dressing.",
+   "Top with crushed peanuts."
+  ],
+  "tip": "Dressing too thick? Add warm water a teaspoon at a time."
+ },
+ {
+  "id": "caprese-quinoa",
+  "title": "Caprese Quinoa Salad",
+  "emoji": "🍅",
+  "cat": "lunch",
+  "cuisine": "Italian",
+  "tags": [
+   "vegetarian",
+   "gluten-free",
+   "quick"
+  ],
+  "time": 20,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 380,
+   "protein": 15,
+   "carbs": 42,
+   "fat": 17
+  },
+  "rating": 4.6,
+  "votes": 240,
+  "summary": "Fresh mozzarella, cherry tomatoes and basil folded through lemony quinoa.",
+  "ingredients": [
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "quinoa, rinsed"
+   },
+   {
+    "q": 2,
+    "u": "cups",
+    "n": "water"
+   },
+   {
+    "q": 250,
+    "u": "g",
+    "n": "cherry tomatoes, halved"
+   },
+   {
+    "q": 150,
+    "u": "g",
+    "n": "mini mozzarella balls"
+   },
+   {
+    "q": 1,
+    "u": "handful",
+    "n": "basil leaves"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "olive oil"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "balsamic vinegar"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer quinoa in water 15 min; fluff and cool.",
+   "Toss with tomatoes, mozzarella and torn basil.",
+   "Dress with oil, vinegar and salt."
+  ],
+  "tip": "Swap mozzarella for marinated tofu cubes to make it vegan."
+ },
+ {
+  "id": "falafel-wrap",
+  "title": "Baked Falafel Wrap",
+  "emoji": "🌯",
+  "cat": "lunch",
+  "cuisine": "Middle Eastern",
+  "tags": [
+   "vegan",
+   "high-protein",
+   "budget"
+  ],
+  "time": 40,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 480,
+   "protein": 18,
+   "carbs": 66,
+   "fat": 16
+  },
+  "rating": 4.8,
+  "votes": 701,
+  "summary": "Crisp baked falafel, no deep fryer, wrapped with pickles, tomato and tahini.",
+  "ingredients": [
+   {
+    "q": 250,
+    "u": "g",
+    "n": "dried chickpeas, soaked overnight"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "small onion"
+   },
+   {
+    "q": 3,
+    "u": "cloves",
+    "n": "garlic"
+   },
+   {
+    "q": 1,
+    "u": "bunch",
+    "n": "parsley"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "cumin"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "coriander"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "baking soda"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "flour"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "salt"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "olive oil"
+   },
+   {
+    "q": 4,
+    "u": "",
+    "n": "flatbreads"
+   },
+   {
+    "q": 4,
+    "u": "tbsp",
+    "n": "tahini sauce"
+   },
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "tomato & pickle slices"
+   }
+  ],
+  "steps": [
+   "Pulse drained chickpeas, onion, garlic, parsley, spices, baking soda, flour and salt into a coarse paste.",
+   "Shape 16 balls; brush with oil.",
+   "Bake at 200°C / 400°F for 25 min, turning halfway.",
+   "Wrap in flatbread with tahini, tomato and pickles."
+  ],
+  "tip": "Use soaked, not canned, chickpeas — canned makes mushy falafel."
+ },
+ {
+  "id": "paneer-butter-masala",
+  "title": "Paneer Butter Masala",
+  "emoji": "🧀",
+  "cat": "dinner",
+  "cuisine": "Indian",
+  "tags": [
+   "vegetarian",
+   "gluten-free",
+   "high-protein"
+  ],
+  "time": 40,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 520,
+   "protein": 22,
+   "carbs": 24,
+   "fat": 38
+  },
+  "rating": 4.9,
+  "votes": 1340,
+  "summary": "Restaurant-style silky tomato-cashew gravy with soft paneer — the most-requested Indian veg dish.",
+  "ingredients": [
+   {
+    "q": 400,
+    "u": "g",
+    "n": "paneer, cubed"
+   },
+   {
+    "q": 3,
+    "u": "tbsp",
+    "n": "butter"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "onion, chopped"
+   },
+   {
+    "q": 4,
+    "u": "",
+    "n": "tomatoes, chopped"
+   },
+   {
+    "q": 15,
+    "u": "",
+    "n": "cashews"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "ginger-garlic paste"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "Kashmiri chilli powder"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "garam masala"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "sugar"
+   },
+   {
+    "q": 100,
+    "u": "ml",
+    "n": "cream"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "kasuri methi"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Melt 1 tbsp butter; sauté onion, ginger-garlic, tomatoes and cashews 10 min. Cool, blend smooth.",
+   "Melt remaining butter; add chilli powder and the purée. Simmer 10 min.",
+   "Add sugar, salt, garam masala and cream. Simmer 5 min.",
+   "Add paneer and crushed kasuri methi; simmer 3 min."
+  ],
+  "tip": "Soak paneer in warm salted water 10 min before adding for extra softness."
+ },
+ {
+  "id": "mushroom-stroganoff",
+  "title": "Creamy Mushroom Stroganoff",
+  "emoji": "🍄",
+  "cat": "dinner",
+  "cuisine": "European",
+  "tags": [
+   "vegan",
+   "quick"
+  ],
+  "time": 25,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 470,
+   "protein": 14,
+   "carbs": 62,
+   "fat": 18
+  },
+  "rating": 4.8,
+  "votes": 655,
+  "summary": "Cashew cream, caramelised mushrooms and paprika over pasta or rice in 25 minutes.",
+  "ingredients": [
+   {
+    "q": 500,
+    "u": "g",
+    "n": "mixed mushrooms, sliced"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "olive oil"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "onion, sliced"
+   },
+   {
+    "q": 3,
+    "u": "cloves",
+    "n": "garlic"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "smoked paprika"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "soy sauce"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "Dijon mustard"
+   },
+   {
+    "q": 80,
+    "u": "g",
+    "n": "cashews, soaked"
+   },
+   {
+    "q": 250,
+    "u": "ml",
+    "n": "vegetable stock"
+   },
+   {
+    "q": 300,
+    "u": "g",
+    "n": "pasta or rice"
+   },
+   {
+    "q": 1,
+    "u": "handful",
+    "n": "parsley"
+   }
+  ],
+  "steps": [
+   "Cook pasta. Blend cashews with stock until smooth.",
+   "Sear mushrooms in oil in batches until browned; set aside.",
+   "Soften onion and garlic; add paprika, soy and mustard.",
+   "Return mushrooms, pour in cashew cream, simmer 5 min. Toss with pasta and parsley."
+  ],
+  "tip": "Crowding the pan steams mushrooms — sear in two batches."
+ },
+ {
+  "id": "black-bean-tacos",
+  "title": "Crispy Black Bean Tacos",
+  "emoji": "🌮",
+  "cat": "dinner",
+  "cuisine": "Mexican",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "quick",
+   "budget",
+   "high-protein"
+  ],
+  "time": 20,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 450,
+   "protein": 17,
+   "carbs": 64,
+   "fat": 14
+  },
+  "rating": 4.8,
+  "votes": 899,
+  "summary": "Pan-crisped corn tortillas stuffed with spiced black beans and a quick lime slaw.",
+  "ingredients": [
+   {
+    "q": 800,
+    "u": "g",
+    "n": "canned black beans, drained"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "cumin"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "chilli powder"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "garlic powder"
+   },
+   {
+    "q": 8,
+    "u": "",
+    "n": "corn tortillas"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "oil"
+   },
+   {
+    "q": 2,
+    "u": "cups",
+    "n": "shredded cabbage"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "lime, juiced"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "avocado"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Mash beans with spices and salt.",
+   "Spread beans on half of each tortilla, fold.",
+   "Pan-fry in oil 2–3 min per side until crisp.",
+   "Toss cabbage with lime and salt; fill tacos with slaw and avocado."
+  ],
+  "tip": "Warm tortillas first so they fold without cracking."
+ },
+ {
+  "id": "thai-green-curry",
+  "title": "Thai Green Curry with Tofu",
+  "emoji": "🍛",
+  "cat": "dinner",
+  "cuisine": "Thai",
+  "tags": [
+   "vegan",
+   "gluten-free"
+  ],
+  "time": 30,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 490,
+   "protein": 17,
+   "carbs": 40,
+   "fat": 30
+  },
+  "rating": 4.7,
+  "votes": 612,
+  "summary": "Fragrant coconut curry with crisp tofu, green beans and Thai basil.",
+  "ingredients": [
+   {
+    "q": 400,
+    "u": "g",
+    "n": "firm tofu, cubed"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "oil"
+   },
+   {
+    "q": 3,
+    "u": "tbsp",
+    "n": "vegan green curry paste"
+   },
+   {
+    "q": 400,
+    "u": "ml",
+    "n": "coconut milk"
+   },
+   {
+    "q": 200,
+    "u": "ml",
+    "n": "vegetable stock"
+   },
+   {
+    "q": 150,
+    "u": "g",
+    "n": "green beans"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "red pepper"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "soy sauce"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "sugar"
+   },
+   {
+    "q": 1,
+    "u": "handful",
+    "n": "Thai basil"
+   },
+   {
+    "q": 2,
+    "u": "cups",
+    "n": "cooked jasmine rice"
+   }
+  ],
+  "steps": [
+   "Pan-fry tofu in 1 tbsp oil until golden; set aside.",
+   "Fry curry paste in remaining oil 1 min; add coconut milk and stock.",
+   "Add beans and pepper; simmer 8 min.",
+   "Return tofu, add soy and sugar; finish with basil. Serve over rice."
+  ],
+  "tip": "Check the paste label — many contain shrimp."
+ },
+ {
+  "id": "lentil-bolognese",
+  "title": "Lentil Bolognese",
+  "emoji": "🍝",
+  "cat": "dinner",
+  "cuisine": "Italian",
+  "tags": [
+   "vegan",
+   "high-protein",
+   "budget"
+  ],
+  "time": 45,
+  "servings": 6,
+  "nutrition": {
+   "kcal": 510,
+   "protein": 22,
+   "carbs": 78,
+   "fat": 10
+  },
+  "rating": 4.9,
+  "votes": 1567,
+  "summary": "Slow-simmered brown lentils, mushrooms and red wine make a rich ragù that fools omnivores.",
+  "ingredients": [
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "olive oil"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "onion, diced"
+   },
+   {
+    "q": 2,
+    "u": "",
+    "n": "carrots, diced"
+   },
+   {
+    "q": 2,
+    "u": "stalks",
+    "n": "celery, diced"
+   },
+   {
+    "q": 4,
+    "u": "cloves",
+    "n": "garlic"
+   },
+   {
+    "q": 250,
+    "u": "g",
+    "n": "mushrooms, minced"
+   },
+   {
+    "q": 250,
+    "u": "g",
+    "n": "brown lentils"
+   },
+   {
+    "q": 120,
+    "u": "ml",
+    "n": "red wine"
+   },
+   {
+    "q": 800,
+    "u": "g",
+    "n": "canned crushed tomatoes"
+   },
+   {
+    "q": 500,
+    "u": "ml",
+    "n": "vegetable stock"
+   },
+   {
+    "q": 2,
+    "u": "tsp",
+    "n": "dried oregano"
+   },
+   {
+    "q": 500,
+    "u": "g",
+    "n": "spaghetti"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Sweat onion, carrot and celery 8 min; add garlic and mushrooms 5 min.",
+   "Add wine, reduce 2 min.",
+   "Add lentils, tomatoes, stock and oregano. Simmer 30 min until lentils are tender.",
+   "Season; serve over spaghetti."
+  ],
+  "tip": "A teaspoon of miso or soy sauce deepens the umami."
+ },
+ {
+  "id": "chana-masala",
+  "title": "Chana Masala",
+  "emoji": "🫘",
+  "cat": "dinner",
+  "cuisine": "Indian",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "high-protein",
+   "budget"
+  ],
+  "time": 35,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 390,
+   "protein": 16,
+   "carbs": 60,
+   "fat": 9
+  },
+  "rating": 4.9,
+  "votes": 1893,
+  "summary": "The classic North-Indian chickpea curry: tangy, spiced and ready in 35 minutes with canned chickpeas.",
+  "ingredients": [
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "oil"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "cumin seeds"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "onion, finely chopped"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "ginger-garlic paste"
+   },
+   {
+    "q": 2,
+    "u": "",
+    "n": "tomatoes, puréed"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "coriander powder"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "turmeric"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "chilli powder"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "garam masala"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "amchur (dry mango powder)"
+   },
+   {
+    "q": 800,
+    "u": "g",
+    "n": "canned chickpeas"
+   },
+   {
+    "q": 250,
+    "u": "ml",
+    "n": "water"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "salt"
+   },
+   {
+    "q": 1,
+    "u": "handful",
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Crackle cumin in oil; brown onion 8 min.",
+   "Add ginger-garlic, then tomato purée and powdered spices; cook until oil separates.",
+   "Add chickpeas, water and salt; simmer 15 min, mashing a few.",
+   "Finish with garam masala, amchur and cilantro."
+  ],
+  "tip": "Simmer with a tea bag for the dark dhaba-style colour."
+ },
+ {
+  "id": "stuffed-peppers",
+  "title": "Quinoa Stuffed Peppers",
+  "emoji": "🫑",
+  "cat": "dinner",
+  "cuisine": "Mediterranean",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "high-protein"
+  ],
+  "time": 50,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 410,
+   "protein": 15,
+   "carbs": 60,
+   "fat": 13
+  },
+  "rating": 4.6,
+  "votes": 377,
+  "summary": "Bell peppers filled with herby quinoa, black beans and corn, baked until tender.",
+  "ingredients": [
+   {
+    "q": 4,
+    "u": "",
+    "n": "bell peppers, halved"
+   },
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "quinoa"
+   },
+   {
+    "q": 2,
+    "u": "cups",
+    "n": "vegetable stock"
+   },
+   {
+    "q": 400,
+    "u": "g",
+    "n": "canned black beans"
+   },
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "corn"
+   },
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "salsa"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "cumin"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "smoked paprika"
+   },
+   {
+    "q": 1,
+    "u": "handful",
+    "n": "cilantro"
+   },
+   {
+    "q": 0.5,
+    "u": "cup",
+    "n": "vegan cheese (optional)"
+   }
+  ],
+  "steps": [
+   "Cook quinoa in stock 15 min.",
+   "Mix quinoa, beans, corn, salsa, spices and cilantro.",
+   "Fill pepper halves; top with cheese if using.",
+   "Bake covered at 190°C / 375°F for 30 min; uncover 5 min."
+  ],
+  "tip": "Pre-roast the empty peppers 10 min for a softer bite."
+ },
+ {
+  "id": "teriyaki-tempeh",
+  "title": "Sticky Teriyaki Tempeh Bowls",
+  "emoji": "🍱",
+  "cat": "dinner",
+  "cuisine": "Japanese",
+  "tags": [
+   "vegan",
+   "high-protein",
+   "quick"
+  ],
+  "time": 25,
+  "servings": 2,
+  "nutrition": {
+   "kcal": 560,
+   "protein": 29,
+   "carbs": 64,
+   "fat": 19
+  },
+  "rating": 4.7,
+  "votes": 441,
+  "summary": "Tempeh delivers 29 g protein per bowl under a glossy homemade teriyaki glaze.",
+  "ingredients": [
+   {
+    "q": 250,
+    "u": "g",
+    "n": "tempeh, sliced"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "oil"
+   },
+   {
+    "q": 3,
+    "u": "tbsp",
+    "n": "soy sauce"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "maple syrup"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "rice vinegar"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "grated ginger"
+   },
+   {
+    "q": 1,
+    "u": "clove",
+    "n": "garlic"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "cornstarch"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "water"
+   },
+   {
+    "q": 2,
+    "u": "cups",
+    "n": "cooked rice"
+   },
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "steamed broccoli"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "sesame seeds"
+   }
+  ],
+  "steps": [
+   "Steam tempeh 8 min to remove bitterness; pat dry.",
+   "Pan-fry in oil until golden on both sides.",
+   "Whisk soy, maple, vinegar, ginger, garlic, cornstarch and water; pour over tempeh, simmer until glossy.",
+   "Serve over rice with broccoli and sesame."
+  ],
+  "tip": "Steaming first is the difference between bitter and delicious tempeh."
+ },
+ {
+  "id": "veg-lasagna",
+  "title": "Spinach & Cashew Ricotta Lasagna",
+  "emoji": "🍽️",
+  "cat": "dinner",
+  "cuisine": "Italian",
+  "tags": [
+   "vegan",
+   "high-protein"
+  ],
+  "time": 75,
+  "servings": 8,
+  "nutrition": {
+   "kcal": 480,
+   "protein": 18,
+   "carbs": 56,
+   "fat": 20
+  },
+  "rating": 4.8,
+  "votes": 528,
+  "summary": "Layers of tofu-cashew ricotta, spinach and marinara — the Sunday centrepiece.",
+  "ingredients": [
+   {
+    "q": 400,
+    "u": "g",
+    "n": "firm tofu"
+   },
+   {
+    "q": 100,
+    "u": "g",
+    "n": "cashews, soaked"
+   },
+   {
+    "q": 3,
+    "u": "tbsp",
+    "n": "nutritional yeast"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "lemon juice"
+   },
+   {
+    "q": 2,
+    "u": "cloves",
+    "n": "garlic"
+   },
+   {
+    "q": 300,
+    "u": "g",
+    "n": "spinach, wilted and squeezed"
+   },
+   {
+    "q": 700,
+    "u": "ml",
+    "n": "marinara sauce"
+   },
+   {
+    "q": 12,
+    "u": "",
+    "n": "lasagna sheets"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "salt"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "dried basil"
+   }
+  ],
+  "steps": [
+   "Blend tofu, cashews, yeast, lemon, garlic, salt and basil into ricotta; stir in spinach.",
+   "Layer sauce, sheets, ricotta; repeat three times, ending with sauce.",
+   "Cover with foil; bake at 190°C / 375°F for 45 min. Uncover for 10 min.",
+   "Rest 15 min before slicing."
+  ],
+  "tip": "Rest time matters — cutting early gives you soup."
+ },
+ {
+  "id": "dal-tadka",
+  "title": "Dal Tadka",
+  "emoji": "🍛",
+  "cat": "dinner",
+  "cuisine": "Indian",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "high-protein",
+   "budget"
+  ],
+  "time": 35,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 300,
+   "protein": 15,
+   "carbs": 44,
+   "fat": 8
+  },
+  "rating": 4.9,
+  "votes": 2210,
+  "summary": "Yellow lentils tempered with garlic, cumin and dried chilli. Comfort food at under $1 a serving.",
+  "ingredients": [
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "toor or masoor dal"
+   },
+   {
+    "q": 3,
+    "u": "cups",
+    "n": "water"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "turmeric"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "salt"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "ghee or oil"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "cumin seeds"
+   },
+   {
+    "q": 4,
+    "u": "cloves",
+    "n": "garlic, sliced"
+   },
+   {
+    "q": 2,
+    "u": "",
+    "n": "dried red chillies"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "onion, chopped"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "tomato, chopped"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "chilli powder"
+   },
+   {
+    "q": 1,
+    "u": "handful",
+    "n": "cilantro"
+   }
+  ],
+  "steps": [
+   "Pressure-cook or simmer dal with turmeric, salt and water until soft (20–25 min); whisk smooth.",
+   "Heat ghee; crackle cumin, add garlic and dried chillies until golden.",
+   "Add onion, cook 5 min; add tomato and chilli powder 3 min.",
+   "Pour tempering over dal, simmer 5 min, top with cilantro."
+  ],
+  "tip": "Add a squeeze of lemon right before serving."
+ },
+ {
+  "id": "shepherds-pie",
+  "title": "Lentil Shepherd's Pie",
+  "emoji": "🥧",
+  "cat": "dinner",
+  "cuisine": "British",
+  "tags": [
+   "vegan",
+   "high-protein",
+   "budget"
+  ],
+  "time": 60,
+  "servings": 6,
+  "nutrition": {
+   "kcal": 450,
+   "protein": 17,
+   "carbs": 70,
+   "fat": 11
+  },
+  "rating": 4.7,
+  "votes": 634,
+  "summary": "Savoury lentil-vegetable base under a blanket of fluffy mash.",
+  "ingredients": [
+   {
+    "q": 1,
+    "u": "kg",
+    "n": "potatoes"
+   },
+   {
+    "q": 60,
+    "u": "ml",
+    "n": "plant milk"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "vegan butter"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "olive oil"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "onion"
+   },
+   {
+    "q": 2,
+    "u": "",
+    "n": "carrots"
+   },
+   {
+    "q": 2,
+    "u": "cloves",
+    "n": "garlic"
+   },
+   {
+    "q": 250,
+    "u": "g",
+    "n": "green lentils"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "tomato paste"
+   },
+   {
+    "q": 500,
+    "u": "ml",
+    "n": "vegetable stock"
+   },
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "frozen peas"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "thyme"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "soy sauce"
+   }
+  ],
+  "steps": [
+   "Boil potatoes; mash with milk and butter.",
+   "Sauté onion, carrot and garlic; add lentils, tomato paste, stock, thyme and soy. Simmer 25 min.",
+   "Stir in peas; spread in a dish, top with mash.",
+   "Bake at 200°C / 400°F for 25 min until golden."
+  ],
+  "tip": "Rake the mash with a fork for maximum crispy ridges."
+ },
+ {
+  "id": "veggie-burger",
+  "title": "Ultimate Black Bean Burger",
+  "emoji": "🍔",
+  "cat": "dinner",
+  "cuisine": "American",
+  "tags": [
+   "vegan",
+   "high-protein"
+  ],
+  "time": 35,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 430,
+   "protein": 17,
+   "carbs": 58,
+   "fat": 14
+  },
+  "rating": 4.8,
+  "votes": 1105,
+  "summary": "Holds together, chars on the grill and doesn't taste like mush. Walnuts and oats are the secret.",
+  "ingredients": [
+   {
+    "q": 800,
+    "u": "g",
+    "n": "canned black beans, dried in the oven 10 min"
+   },
+   {
+    "q": 60,
+    "u": "g",
+    "n": "walnuts"
+   },
+   {
+    "q": 60,
+    "u": "g",
+    "n": "rolled oats"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "small onion"
+   },
+   {
+    "q": 2,
+    "u": "cloves",
+    "n": "garlic"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "soy sauce"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "tomato paste"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "cumin"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "smoked paprika"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "ground flax + 5 tbsp water"
+   },
+   {
+    "q": 4,
+    "u": "",
+    "n": "burger buns"
+   }
+  ],
+  "steps": [
+   "Pulse walnuts and oats to crumbs; add remaining ingredients and pulse to a chunky paste.",
+   "Chill 20 min; shape 4 patties.",
+   "Pan-fry or grill 5 min per side.",
+   "Serve on toasted buns with your favourite toppings."
+  ],
+  "tip": "Drying the beans in the oven prevents soggy patties."
+ },
+ {
+  "id": "coconut-chickpea-curry",
+  "title": "10-Minute Coconut Chickpea Curry",
+  "emoji": "🥥",
+  "cat": "dinner",
+  "cuisine": "Indian",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "quick",
+   "budget",
+   "high-protein"
+  ],
+  "time": 10,
+  "servings": 3,
+  "nutrition": {
+   "kcal": 420,
+   "protein": 14,
+   "carbs": 44,
+   "fat": 22
+  },
+  "rating": 4.7,
+  "votes": 977,
+  "summary": "Pantry-only curry for nights when cooking feels impossible.",
+  "ingredients": [
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "oil"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "curry paste or 1 tbsp curry powder"
+   },
+   {
+    "q": 400,
+    "u": "g",
+    "n": "canned chickpeas"
+   },
+   {
+    "q": 400,
+    "u": "ml",
+    "n": "coconut milk"
+   },
+   {
+    "q": 200,
+    "u": "g",
+    "n": "frozen spinach"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "lime juice"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Fry curry paste in oil 1 min.",
+   "Add chickpeas, coconut milk and spinach; simmer 7 min.",
+   "Season with lime and salt. Serve over rice or with naan."
+  ],
+  "tip": "Keep canned chickpeas and coconut milk stocked and dinner is always 10 minutes away."
+ },
+ {
+  "id": "energy-balls",
+  "title": "No-Bake Peanut Butter Energy Balls",
+  "emoji": "⚡",
+  "cat": "snack",
+  "cuisine": "Global",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "quick",
+   "high-protein"
+  ],
+  "time": 10,
+  "servings": 12,
+  "nutrition": {
+   "kcal": 120,
+   "protein": 4,
+   "carbs": 13,
+   "fat": 6
+  },
+  "rating": 4.8,
+  "votes": 832,
+  "summary": "Twelve bites, ten minutes, no oven. The gym-bag snack.",
+  "ingredients": [
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "rolled oats"
+   },
+   {
+    "q": 0.5,
+    "u": "cup",
+    "n": "peanut butter"
+   },
+   {
+    "q": 3,
+    "u": "tbsp",
+    "n": "maple syrup"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "ground flax"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "mini dark chocolate chips"
+   },
+   {
+    "q": 1,
+    "u": "pinch",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Stir everything together until it holds.",
+   "Roll into 12 balls; chill 30 min."
+  ],
+  "tip": "Too dry? A teaspoon of plant milk fixes it."
+ },
+ {
+  "id": "roasted-chickpeas",
+  "title": "Crunchy Spiced Roasted Chickpeas",
+  "emoji": "🫘",
+  "cat": "snack",
+  "cuisine": "Global",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "budget",
+   "high-protein"
+  ],
+  "time": 35,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 180,
+   "protein": 8,
+   "carbs": 24,
+   "fat": 6
+  },
+  "rating": 4.6,
+  "votes": 455,
+  "summary": "Crispier than chips, with 8 g protein a handful.",
+  "ingredients": [
+   {
+    "q": 800,
+    "u": "g",
+    "n": "canned chickpeas, drained and dried"
+   },
+   {
+    "q": 1.5,
+    "u": "tbsp",
+    "n": "olive oil"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "smoked paprika"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "garlic powder"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Dry chickpeas thoroughly on a towel.",
+   "Roast plain at 200°C / 400°F for 20 min.",
+   "Toss with oil and spices; roast 10 more min."
+  ],
+  "tip": "Season after the first roast — oil and spice too early make them soft."
+ },
+ {
+  "id": "hummus",
+  "title": "Silky Classic Hummus",
+  "emoji": "🥙",
+  "cat": "snack",
+  "cuisine": "Middle Eastern",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "quick",
+   "budget"
+  ],
+  "time": 10,
+  "servings": 6,
+  "nutrition": {
+   "kcal": 190,
+   "protein": 6,
+   "carbs": 18,
+   "fat": 11
+  },
+  "rating": 4.9,
+  "votes": 1266,
+  "summary": "The smoothest hummus comes from over-cooked chickpeas and ice-cold water.",
+  "ingredients": [
+   {
+    "q": 400,
+    "u": "g",
+    "n": "canned chickpeas"
+   },
+   {
+    "q": 0.25,
+    "u": "tsp",
+    "n": "baking soda"
+   },
+   {
+    "q": 4,
+    "u": "tbsp",
+    "n": "tahini"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "lemon juice"
+   },
+   {
+    "q": 1,
+    "u": "clove",
+    "n": "garlic"
+   },
+   {
+    "q": 3,
+    "u": "tbsp",
+    "n": "ice water"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "olive oil"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "cumin"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Simmer chickpeas with baking soda 10 min until very soft; drain.",
+   "Blend tahini, lemon, garlic and salt first; then add chickpeas.",
+   "Stream in ice water while blending until silky. Finish with oil and cumin."
+  ],
+  "tip": "Blend a full 3 minutes — patience makes it whipped."
+ },
+ {
+  "id": "kale-chips",
+  "title": "Cheesy Kale Chips",
+  "emoji": "🥬",
+  "cat": "snack",
+  "cuisine": "American",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "quick"
+  ],
+  "time": 20,
+  "servings": 2,
+  "nutrition": {
+   "kcal": 110,
+   "protein": 5,
+   "carbs": 10,
+   "fat": 7
+  },
+  "rating": 4.5,
+  "votes": 289,
+  "summary": "Nutritional yeast makes these addictively cheesy.",
+  "ingredients": [
+   {
+    "q": 1,
+    "u": "bunch",
+    "n": "kale, torn"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "olive oil"
+   },
+   {
+    "q": 2,
+    "u": "tbsp",
+    "n": "nutritional yeast"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Massage kale with oil, yeast and salt.",
+   "Bake in a single layer at 150°C / 300°F for 15–18 min until crisp."
+  ],
+  "tip": "Low temperature is essential — high heat burns before it crisps."
+ },
+ {
+  "id": "chocolate-avocado-mousse",
+  "title": "Chocolate Avocado Mousse",
+  "emoji": "🍫",
+  "cat": "dessert",
+  "cuisine": "Global",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "quick"
+  ],
+  "time": 10,
+  "servings": 4,
+  "nutrition": {
+   "kcal": 260,
+   "protein": 4,
+   "carbs": 26,
+   "fat": 17
+  },
+  "rating": 4.7,
+  "votes": 674,
+  "summary": "Five ingredients, five minutes, nobody can taste the avocado.",
+  "ingredients": [
+   {
+    "q": 2,
+    "u": "",
+    "n": "ripe avocados"
+   },
+   {
+    "q": 4,
+    "u": "tbsp",
+    "n": "cocoa powder"
+   },
+   {
+    "q": 4,
+    "u": "tbsp",
+    "n": "maple syrup"
+   },
+   {
+    "q": 60,
+    "u": "ml",
+    "n": "plant milk"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "vanilla"
+   },
+   {
+    "q": 1,
+    "u": "pinch",
+    "n": "salt"
+   }
+  ],
+  "steps": [
+   "Blend everything until completely smooth, scraping down twice.",
+   "Chill 1 hour; top with berries."
+  ],
+  "tip": "Use avocados that give slightly to pressure — underripe ones taste grassy."
+ },
+ {
+  "id": "banana-bread",
+  "title": "One-Bowl Vegan Banana Bread",
+  "emoji": "🍌",
+  "cat": "dessert",
+  "cuisine": "American",
+  "tags": [
+   "vegan",
+   "budget"
+  ],
+  "time": 65,
+  "servings": 10,
+  "nutrition": {
+   "kcal": 240,
+   "protein": 4,
+   "carbs": 40,
+   "fat": 8
+  },
+  "rating": 4.9,
+  "votes": 1580,
+  "summary": "Moist, caramel-edged and made in one bowl with a fork.",
+  "ingredients": [
+   {
+    "q": 3,
+    "u": "",
+    "n": "very ripe bananas"
+   },
+   {
+    "q": 80,
+    "u": "ml",
+    "n": "oil"
+   },
+   {
+    "q": 120,
+    "u": "g",
+    "n": "brown sugar"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "vanilla"
+   },
+   {
+    "q": 220,
+    "u": "g",
+    "n": "all-purpose flour"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "baking soda"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "cinnamon"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "salt"
+   },
+   {
+    "q": 60,
+    "u": "g",
+    "n": "walnuts (optional)"
+   }
+  ],
+  "steps": [
+   "Mash bananas; stir in oil, sugar and vanilla.",
+   "Add flour, soda, cinnamon and salt; fold until just combined. Add walnuts.",
+   "Bake in a lined loaf tin at 175°C / 350°F for 50–55 min."
+  ],
+  "tip": "Bananas should be nearly black for the deepest flavour."
+ },
+ {
+  "id": "chia-pudding",
+  "title": "Vanilla Chia Pudding",
+  "emoji": "🍮",
+  "cat": "dessert",
+  "cuisine": "Global",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "quick"
+  ],
+  "time": 5,
+  "servings": 2,
+  "nutrition": {
+   "kcal": 230,
+   "protein": 7,
+   "carbs": 22,
+   "fat": 13
+  },
+  "rating": 4.6,
+  "votes": 502,
+  "summary": "Two-minute prep, overnight set. Works as breakfast or dessert.",
+  "ingredients": [
+   {
+    "q": 4,
+    "u": "tbsp",
+    "n": "chia seeds"
+   },
+   {
+    "q": 250,
+    "u": "ml",
+    "n": "coconut or soy milk"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "maple syrup"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "vanilla"
+   },
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "berries"
+   }
+  ],
+  "steps": [
+   "Whisk chia, milk, maple and vanilla. Whisk again after 10 min to prevent clumps.",
+   "Refrigerate at least 4 hours; top with berries."
+  ],
+  "tip": "The second whisk is the difference between pudding and clumps."
+ },
+ {
+  "id": "mango-lassi",
+  "title": "Vegan Mango Lassi",
+  "emoji": "🥤",
+  "cat": "drink",
+  "cuisine": "Indian",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "quick"
+  ],
+  "time": 5,
+  "servings": 2,
+  "nutrition": {
+   "kcal": 210,
+   "protein": 5,
+   "carbs": 40,
+   "fat": 4
+  },
+  "rating": 4.8,
+  "votes": 398,
+  "summary": "The classic Indian yogurt drink, made with coconut yogurt.",
+  "ingredients": [
+   {
+    "q": 2,
+    "u": "cups",
+    "n": "ripe mango chunks"
+   },
+   {
+    "q": 1,
+    "u": "cup",
+    "n": "coconut or soy yogurt"
+   },
+   {
+    "q": 0.5,
+    "u": "cup",
+    "n": "plant milk"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "maple syrup"
+   },
+   {
+    "q": 0.25,
+    "u": "tsp",
+    "n": "cardamom"
+   },
+   {
+    "q": 4,
+    "u": "",
+    "n": "ice cubes"
+   }
+  ],
+  "steps": [
+   "Blend all ingredients until smooth.",
+   "Serve immediately over ice."
+  ],
+  "tip": "Alphonso or Kesar mango makes it exceptional; frozen mango works too."
+ },
+ {
+  "id": "golden-milk",
+  "title": "Golden Turmeric Latte",
+  "emoji": "☕",
+  "cat": "drink",
+  "cuisine": "Indian",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "quick"
+  ],
+  "time": 5,
+  "servings": 1,
+  "nutrition": {
+   "kcal": 120,
+   "protein": 3,
+   "carbs": 14,
+   "fat": 6
+  },
+  "rating": 4.6,
+  "votes": 277,
+  "summary": "Warm, anti-inflammatory and calming. The evening ritual.",
+  "ingredients": [
+   {
+    "q": 250,
+    "u": "ml",
+    "n": "oat milk"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "turmeric"
+   },
+   {
+    "q": 0.25,
+    "u": "tsp",
+    "n": "cinnamon"
+   },
+   {
+    "q": 1,
+    "u": "pinch",
+    "n": "black pepper"
+   },
+   {
+    "q": 1,
+    "u": "pinch",
+    "n": "ginger"
+   },
+   {
+    "q": 1,
+    "u": "tsp",
+    "n": "maple syrup"
+   }
+  ],
+  "steps": [
+   "Warm milk with spices, whisking, until steaming.",
+   "Sweeten and serve."
+  ],
+  "tip": "Black pepper boosts curcumin absorption up to 20x."
+ },
+ {
+  "id": "protein-smoothie",
+  "title": "Chocolate Peanut Protein Smoothie",
+  "emoji": "🥤",
+  "cat": "drink",
+  "cuisine": "American",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "quick",
+   "high-protein"
+  ],
+  "time": 5,
+  "servings": 1,
+  "nutrition": {
+   "kcal": 390,
+   "protein": 30,
+   "carbs": 42,
+   "fat": 12
+  },
+  "rating": 4.8,
+  "votes": 721,
+  "summary": "Thirty grams of protein, no chalky aftertaste.",
+  "ingredients": [
+   {
+    "q": 1,
+    "u": "scoop",
+    "n": "plant protein powder (chocolate)"
+   },
+   {
+    "q": 1,
+    "u": "",
+    "n": "frozen banana"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "peanut butter"
+   },
+   {
+    "q": 300,
+    "u": "ml",
+    "n": "soy milk"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "cocoa powder"
+   },
+   {
+    "q": 1,
+    "u": "handful",
+    "n": "ice"
+   }
+  ],
+  "steps": [
+   "Blend until smooth; add ice for thickness."
+  ],
+  "tip": "Soy milk adds 9 g protein per glass — the best plant milk for gains."
+ },
+ {
+  "id": "crispy-tofu",
+  "title": "Crispy Baked Tofu (Master Recipe)",
+  "emoji": "🧊",
+  "cat": "dinner",
+  "cuisine": "Asian",
+  "tags": [
+   "vegan",
+   "gluten-free",
+   "high-protein",
+   "budget"
+  ],
+  "time": 35,
+  "servings": 3,
+  "nutrition": {
+   "kcal": 220,
+   "protein": 20,
+   "carbs": 10,
+   "fat": 12
+  },
+  "rating": 4.9,
+  "votes": 1712,
+  "summary": "The foundational technique: press, cornstarch, high heat. Crisp every time.",
+  "ingredients": [
+   {
+    "q": 400,
+    "u": "g",
+    "n": "extra-firm tofu"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "soy sauce or tamari"
+   },
+   {
+    "q": 1,
+    "u": "tbsp",
+    "n": "oil"
+   },
+   {
+    "q": 1.5,
+    "u": "tbsp",
+    "n": "cornstarch"
+   },
+   {
+    "q": 0.5,
+    "u": "tsp",
+    "n": "garlic powder"
+   }
+  ],
+  "steps": [
+   "Press tofu 15 min; tear into rough chunks.",
+   "Toss with soy and oil, then cornstarch and garlic powder.",
+   "Bake at 220°C / 425°F for 25–30 min, flipping halfway."
+  ],
+  "tip": "Tearing instead of cubing creates craggy edges that crisp better."
+ }
+]
